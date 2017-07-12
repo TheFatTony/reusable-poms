@@ -1,0 +1,1 @@
+Connection pull ripped from https://github.com/akiraly/reusable-poms, because I need only 3 classes from whole project - no point doing a fork.
